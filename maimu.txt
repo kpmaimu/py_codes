@@ -1,0 +1,9 @@
+Dear Dr. Susann Beier,
+I am writing to express my strong interest in the PhD opportunity in Machine Learning and Medical Diagnostics at UNSW. With a Master's in Computer Science and a background in machine learning, I am eager to contribute to advancing medical diagnostics.
+Currently employed as a Python Developer, I have practical experience and skills in data analysis, machine learning, and programming. I have a passion for this field, which led me to transition from academia to the IT industry.
+My academic achievements include passing the UGC NET exam and earning praise for a machine learning project during my Master's. Although my CGPA is slightly below the requirement due to personal challenges affecting a specific exam, I received the Outstanding Achievement Award at my college for exceptional academic performance. Additionally, a group project completed during a summer school program on applied machine learning further ignited my enthusiasm for research in machine learning.
+With a strong foundation in machine learning and proficient Python skills, I am prepared to pioneer biofluids solutions using physics-informed neural networks in the medical field. I value collaboration with diverse experts and believe Sydney's livability and UNSW's academic excellence are ideal for my PhD journey.
+I appreciate SVMG's support and look forward to being part of your global scholar community. I am enthusiastic about contributing to the future of machine learning and medical diagnostics, ready to make a lasting impact on healthcare and technology.
+Thank you for considering my application, and I eagerly anticipate discussing my candidacy further.
+Sincerely, [Your Name]
+
